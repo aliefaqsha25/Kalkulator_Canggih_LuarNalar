@@ -1,0 +1,18 @@
+# Build output
+out/
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS
+.DS_Store
+Thumbs.db
