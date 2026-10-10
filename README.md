@@ -405,7 +405,7 @@ Tes yang sama dijalankan otomatis oleh **GitHub Actions** (`.github/workflows/ci
 | **Alief Aqsha** | Konfigurasi proyek, GUI, dokumentasi | `pom.xml`, `run.bat`, `run.sh`, `ci.yml`, `GuiApp`, `RoundButton`, `README.md` |
 | **Hanif Maulana** | Parser ekspresi dan formatter hasil | `ExpressionParser`, `ResultFormatter`, `CalculatorException`, tes parser dan formatter |
 | **Ibnul Jawzy** | Mesin kalkulator dan tata letak tombol | `CalculatorEngine`, `Keypad`, tes engine |
-| **M Ihsan Syahni** | Tampilan CLI dan titik masuk program | `CliApp`, `CliRenderer`, `ConsoleSetup`, `Ansi`, `Main` |
+| **M.Ihsan Syahni** | Tampilan CLI dan titik masuk program | `CliApp`, `CliRenderer`, `ConsoleSetup`, `Ansi`, `Main` |
 
 Setiap anggota memegang bagian yang terpisah dan memiliki jumlah commit yang sama, sehingga riwayat Git mencerminkan kontribusi masing-masing.
 
